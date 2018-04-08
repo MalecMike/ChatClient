@@ -1,1 +1,1 @@
-![Alt text](/PrtSc/ChatScreen.png)
+![Alt text](PrtSc/ChatScreen.png)
